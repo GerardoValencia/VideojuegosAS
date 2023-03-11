@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tienda_online</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="su_nombre_porfavor">Su nombre porfavor</string>
+    <string name="nombre_del_juego">Nombre del Juego</string>
+    <string name="consola">Consola</string>
+    <string name="comprar">Comprar</string>
+</resources>
